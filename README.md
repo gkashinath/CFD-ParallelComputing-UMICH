@@ -10,4 +10,6 @@ This folder contains 6 sample projects from my Masters program in Aerospace Engi
 - **05-FVM-Airfoil-Unstructured:** This project involved the development of a MATLAB code to simulate the flow around an airfoil.
 - **06-Channel-Flow-Optimization:** This project summarizes the development of a code used to optimize the flow in a 2D channel.
 
+**Programming skills:** FORTRAN, MPI, OpenMP and MATLAB
+
 For more information please contact, gkashinath@gmail.com.
